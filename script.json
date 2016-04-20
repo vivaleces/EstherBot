@@ -1,7 +1,10 @@
 {
-    "HELLO": "Hey, I'm so glad you set EstherBot up!",
-    "TWITTER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/estherbot-tweet",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "HEJ": "Hej! 🎉 Du söker alltså Dennis, jag är hans bot. 🤖 Men jag kan nog peka dig i rätt riktning. Vill du nå Dennis via MAIL eller TWITTER?",
+    "TWITTER": "Toppen! Du hittar honom på http://twitter.com/vivaleces, behöver du HJÄLP med något mer?",
+    "HJÄLP": "Vill du nå Dennis via MAIL eller TWITTER?",
+    "MAIL": "Ok, det löser jag åt dig. Gäller det JOBB eller PRIVAT? 🙃",
+    "PRIVAT": "Då kan du maila honom på dennis.cessan@gmail.com, behöver du HJÄLP med något mer? 🙂",
+    "JOBB": "Jaså, intressant! Maila honom på dennis@edip.se så hör han av sig så fort han kan! Behöver du HJÄLP med något mer? 🙂",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
